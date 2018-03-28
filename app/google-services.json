@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "801880110144",
+    "firebase_url": "https://chatagri-8e2e7.firebaseio.com",
+    "project_id": "chatagri-8e2e7",
+    "storage_bucket": "chatagri-8e2e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801880110144:android:4e05d402d39039a4",
+        "android_client_info": {
+          "package_name": "com.example.hemant.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801880110144-18gd1ashbqg0u7n7d9l9fdjfr33mv2dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hemant.chat",
+            "certificate_hash": "e95a279dca8e85ee406f942bc10434e0085b9cf0"
+          }
+        },
+        {
+          "client_id": "801880110144-hrkjjta2dofrq3qq08u2h775psv2gir9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXlttNml2rF8QSoYQtQRF1NyadbmrXgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801880110144-hrkjjta2dofrq3qq08u2h775psv2gir9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801880110144:android:7614d1f3a3b0022b",
+        "android_client_info": {
+          "package_name": "com.example.hemant.chatagri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801880110144-vlh25plc21dagb61v0up90sso9983r1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hemant.chatagri",
+            "certificate_hash": "e95a279dca8e85ee406f942bc10434e0085b9cf0"
+          }
+        },
+        {
+          "client_id": "801880110144-hrkjjta2dofrq3qq08u2h775psv2gir9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXlttNml2rF8QSoYQtQRF1NyadbmrXgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801880110144-hrkjjta2dofrq3qq08u2h775psv2gir9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
